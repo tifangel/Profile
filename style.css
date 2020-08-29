@@ -210,6 +210,9 @@ body{
     height: 60%;
     background-color: #ccc;
     padding: 40px;
+    opacity: 0;
+    animation: appear-text 0.1s linear forwards;
+    animation-delay: 6.6s;
 }
 .desc-box{
     position: absolute;
